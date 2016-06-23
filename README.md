@@ -8,7 +8,7 @@
 
 ### TransformWithXslt 
 
-Functionality: **_Transform a file with XSLT_**
+Functionality: **_Transform an XML file with XSLT_**
 
 ---
 
@@ -53,7 +53,7 @@ You man now import xbb_TransformWithXslt into your IDE.
 
 ### Run Instructions:
 
-_Run XbbTest to see the results of the transforms._
+_Run XbbTest to see the results of the transforms. See NOTES.md for more information._
 
 ---
 
